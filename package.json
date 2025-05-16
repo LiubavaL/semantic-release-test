@@ -1,0 +1,16 @@
+{
+  "name": "semantic-release-test",
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@types/lodash-es": "^4.17.12",
+    "semantic-release": "^24.2.3",
+    "typescript": "^5.2.2",
+    "vite": "^5.3.4"
+  }
+}
