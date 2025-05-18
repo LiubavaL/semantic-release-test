@@ -5,12 +5,14 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "release": "semantic-release",
+    "test": "vitest"
   },
   "devDependencies": {
-    "@types/lodash-es": "^4.17.12",
     "semantic-release": "^24.2.3",
     "typescript": "^5.2.2",
-    "vite": "^5.3.4"
+    "vite": "^5.3.4",
+    "vitest": "^3.1.3"
   }
 }
