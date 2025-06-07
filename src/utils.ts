@@ -14,3 +14,6 @@ export function divide(a:number, b:number){
     return a / b;
 }
 
+export function absolute(a:number){
+    return Math.abs(a);
+}
