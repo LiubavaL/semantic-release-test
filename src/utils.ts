@@ -18,3 +18,8 @@ export function abs(a:number){
     return Math.abs(a);
 }
 
+export function negative(a:number){
+    return -1 * a;
+}
+
+
