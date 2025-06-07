@@ -17,3 +17,7 @@ export function divide(a:number, b:number){
 export function abs(a:number){
     return Math.abs(a);
 }
+
+export function print(a:number){
+    return console.log(a);
+}
