@@ -1,6 +1,6 @@
 {
   "name": "@liubou/semantic-release-test",
-  "version": "0.0.1",
+  "version": "3.1.0-rc.2",
   "type": "module",
   "publishConfig": {
     "access": "public"
@@ -10,9 +10,13 @@
     "build": "tsc && vite build",
     "preview": "vite preview",
     "release": "semantic-release",
+    "local-release": "semantic-release --no-ci",
     "test": "vitest"
   },
   "devDependencies": {
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/exec": "^7.1.0",
+    "@semantic-release/git": "^10.0.1",
     "semantic-release": "^24.2.3",
     "typescript": "^5.2.2",
     "vite": "^5.3.4",
