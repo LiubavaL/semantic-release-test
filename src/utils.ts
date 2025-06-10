@@ -21,3 +21,7 @@ export function abs(a:number){
 export function print(a:number){
     return console.log(a);
 }
+
+export function alert(message: string = ""){
+    return alert('Message: ' + message);
+}
