@@ -1,3 +1,11 @@
+# [1.2.0](https://github.com/LiubavaL/semantic-release-test/compare/v1.1.0...v1.2.0) (2025-06-14)
+
+
+### Features
+
+* add a new feature via feature branch ([2d58e61](https://github.com/LiubavaL/semantic-release-test/commit/2d58e61e80e43296421157f9852a8bae9dd91193))
+* add aler util ([6a7d3fa](https://github.com/LiubavaL/semantic-release-test/commit/6a7d3fa529a4b1f59e1c0b1384d86e5dd91cb618))
+
 # [1.1.0](https://github.com/LiubavaL/semantic-release-test/compare/v1.0.0...v1.1.0) (2025-06-10)
 
 
