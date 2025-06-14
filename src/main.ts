@@ -6,6 +6,7 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
    A new feature
    another feature
    and a breaking change
+   breaking change
   </div>
 `
 
