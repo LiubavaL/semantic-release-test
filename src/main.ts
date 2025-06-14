@@ -5,6 +5,7 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
    Semantic Release
    A new feature
    another feature
+   and a breaking change
   </div>
 `
 
