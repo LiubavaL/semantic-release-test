@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/LiubavaL/semantic-release-test/compare/v2.0.0...v2.0.1) (2025-06-14)
+
+
+### Bug Fixes
+
+* remove a piece of logic ([ac4c68d](https://github.com/LiubavaL/semantic-release-test/commit/ac4c68dc9546d879d3e395a2356b3c5e744cbbe8))
+
 # [2.0.0](https://github.com/LiubavaL/semantic-release-test/compare/v1.3.0...v2.0.0) (2025-06-14)
 
 
