@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/LiubavaL/semantic-release-test/compare/v1.2.1...v1.3.0) (2025-06-14)
+
+
+### Features
+
+* add a new feature ([6c5da0b](https://github.com/LiubavaL/semantic-release-test/commit/6c5da0b3b8c7428b37dc9966da90056dd5c7d399))
+
 ## [1.2.1](https://github.com/LiubavaL/semantic-release-test/compare/v1.2.0...v1.2.1) (2025-06-14)
 
 
