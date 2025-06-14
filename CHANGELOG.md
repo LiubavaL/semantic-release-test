@@ -1,3 +1,20 @@
+# [2.0.0](https://github.com/LiubavaL/semantic-release-test/compare/v1.3.0...v2.0.0) (2025-06-14)
+
+
+### Bug Fixes
+
+* add a breaking change ([7822771](https://github.com/LiubavaL/semantic-release-test/commit/78227710786ce353d4846b67edd4be396bc778f4))
+
+
+### Features
+
+* another feature ([f050ac5](https://github.com/LiubavaL/semantic-release-test/commit/f050ac5ed2030c0550b3ee17fa684e6925737736))
+
+
+### BREAKING CHANGES
+
+* some breaking change details
+
 # [1.3.0](https://github.com/LiubavaL/semantic-release-test/compare/v1.2.1...v1.3.0) (2025-06-14)
 
 
